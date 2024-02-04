@@ -19,6 +19,8 @@
     - Переименовать получившийся файл в "Human Friends"(.
       Пример конечного вывода после команды “ls” :
       Desktop Documents Downloads  HumanFriends.txt  Music  PackAnimals.txt  Pets.txt  Pictures  Videos
+    - 
+![task1_linux.png](pic%2Ftask1_linux.png)
 
 2. Работа с директориями в Linux
     - Создать новую директорию и переместить туда файл "Human Friends".
