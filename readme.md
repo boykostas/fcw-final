@@ -19,11 +19,11 @@
     - Переименовать получившийся файл в "Human Friends"(.
       Пример конечного вывода после команды “ls” :
       Desktop Documents Downloads  HumanFriends.txt  Music  PackAnimals.txt  Pets.txt  Pictures  Videos
-    - 
 ![task1_linux.png](pic%2Ftask1_linux.png)
 
 2. Работа с директориями в Linux
     - Создать новую директорию и переместить туда файл "Human Friends".
+![task2_linux.png](pic%2Ftask2_linux.png)
 
 3. Работа с MySQL в Linux. “Установить MySQL на вашу вычислительную машину ”
     - Подключить дополнительный репозиторий MySQL и установить один из пакетов из этого репозитория.
